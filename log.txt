@@ -1,0 +1,41 @@
+
+
+
+
+
+
+ 
+192.168.19.1
+A0-48-1C-1B-13-CA
+3C-77-E6-53-15-51
+3C-77-E6-53-15-53
+00-00-00-00-00-00-00-E0
+3C-77-E6-53-15-52
+00-50-56-C0-00-01
+00-00-00-00-00-00-00-E0
+00-50-56-C0-00-08
+00-00-00-00-00-00-00-E0
+
+
+ 	 ******************************
+
+ 	 public Ip Address ::123.237.114.43
+
+Date ::  Sat Apr 11 17:00:04 IST 2015
+ Game type = Single Player
+no of game= 2
+duration of game=3
+Gameno  usera  userb chances  level  result
+1  usera  Bot  1  Very_Easy  usera wins
+Date ::  Sat Apr 11 17:21:04 IST 2015
+ Game type = Single Player
+no of game= 1
+duration of game=1
+Gameno  usera  userb chances  level  result
+*************************** The match is tie ******************
+----------------------------------------------------------------------------------------------
+Date ::  Sat Apr 11 17:24:16 IST 2015
+ Game type = Double Player
+no of game= 2
+duration of game=1
+Gameno  usera  userb chances  level  result
